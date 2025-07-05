@@ -46,11 +46,17 @@ Hence, Random Forest was selected as the baseline model for further tuning and e
 
 # Model Training & Evaluation
 
-With RandomForest Classifier  Achieving : Accuracy Score :
+With RandomForest Classifier  Achieving :
+
+Accuracy Score :
+
  0.7785663591199432
+ 
 Confusion matrix:
+
  [[878 158]
  [154 219]]
+ 
 Classfication Report :
                precision    recall  f1-score   support
            0       0.85      0.85      0.85      1036
@@ -62,11 +68,16 @@ weighted avg       0.78      0.78      0.78      1409
 # Optimization 
 
 Hyperparameter Tuning methods to improve the accuracy further 
+
 Accuracy Score :
+
  0.7814052519517388
+ 
 Confusion matrix:
+
  [[872 164]
  [144 229]]
+ 
 Classfication Report :
                precision    recall  f1-score   support
            0       0.86      0.84      0.85      1036
